@@ -10,7 +10,7 @@ This project was done based on the various data given in the dataset such as:
   * city - the name of the city/town/administrative unit where the match was played
   * country - the name of the country where the match was played
   * neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
-
+I added another column for home result in order to facilitate the analysis.
 Logistic regression is used to determine the probability of an event using certain parameters.
 For this project the first challenge was determining what I could predict given the basic details in the dataset. Considering the fact that the dataset doesn't provide significant in game statistics and only the final scores, venues etc. I decided to perform logical regression to prove the 'Home Advantage' concept in football.
 
