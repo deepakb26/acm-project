@@ -16,8 +16,8 @@ For this project the first challenge was determining what I could predict given 
 
 In football it is often considered a great boost if a match is played at the team's home venue. Thus, a correlation between the amount of goals scored by the home team to the final outcome of the match can be drawn using this analysis.
 
-| First step was to weed out International Friendly matches as they don't provide a true competitive sense for the sake of this analysis.
-| Then we consider only the games where the 'Home Advantage' came into play by selecting only those entries where the country matched the home team
-| Then training the model with the dataset and testing it and determining the accuracy of the model was the final step.
+* First step was to weed out International Friendly matches as they don't provide a true competitive sense for the sake of this analysis.
+* Then we consider only the games where the 'Home Advantage' came into play by selecting only those entries where the country matched the home team
+* Then training the model with the dataset and testing it and determining the accuracy of the model was the final step.
 
 Additionally, I attempted to create the Logistic Regression plot but given the nature of Data and lack of adequate parameters the graph appeared to not prove much value, however I have added the code for that in quotes in case anyone wants to view it.
